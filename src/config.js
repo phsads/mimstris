@@ -10,7 +10,7 @@ export default {
   // This number is added to the fall rate on each new level
   fallRateLevelModifier: 0.5,
   // When holding down a key, you will move this many times per second.
-  lateralMovementRate: 6,
+  lateralMovementRate: 13,
   downMovementRate: 20,
   pauseRate: 2,
 
